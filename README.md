@@ -1,5 +1,7 @@
 # 前言
 
+> 本开源书 forked from [ELK Stack 中文指南](https://github.com/chenryn/ELKstack-guide-cn)，作者为 [chenryn](https://github.com/chenryn)，欢迎大家 star 原作者的 [repo](https://github.com/chenryn/ELKstack-guide-cn)，以便获得最新更新，谢谢！
+
 Elastic Stack 是 原 ELK Stack 在 5.0 版本加入 Beats 套件后的新称呼。
 
 Elastic Stack 在最近两年迅速崛起，成为机器数据分析，或者说实时日志处理领域，开源界的第一选择。和传统的日志处理方案相比，Elastic Stack 具有如下几个优点：
